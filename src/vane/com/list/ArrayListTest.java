@@ -105,4 +105,7 @@ public class ArrayListTest<T> {
         element[--size] = null;
     }
 
+    public static void main(String[] args) {
+
+    }
 }
