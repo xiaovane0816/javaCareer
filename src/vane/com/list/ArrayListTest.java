@@ -106,6 +106,7 @@ public class ArrayListTest<T> {
     }
 
     public static void main(String[] args) {
+        ArrayListTest arrayListTest = new ArrayListTest();
 
     }
 }
